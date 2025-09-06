@@ -1,6 +1,6 @@
 # Python Beginner Questions
 
-Is repository mein Python ke beginner level ke 16 basic programming questions hain, jo maine solve kiye hain.  
+Is repository mein Python ke beginner level ke 15 basic programming questions hain, jo maine solve kiye hain.  
 Yeh problems number handling, string manipulation, condition checking, mathematical calculations jaise topics cover karti hain.
 
 ## Questions included
